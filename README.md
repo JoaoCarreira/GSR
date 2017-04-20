@@ -7,8 +7,8 @@ João Carreira 81933 |
 Luís Santos 82529
 
 Tarefas:
- - Atribuição de ip's
- - Configurar switch
+ - Atribuição de ip's (DONE)
+ - Configurar switch (DONE)
  - Adicionar rotas estáticas no BomCLiente
  - Configurar rotas dos routers para os servidores
  - Configurar RIP
